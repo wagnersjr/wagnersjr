@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Seja bem vindos
+# Sejam bem vindos
 
 Me chamo Wagner 
 
